@@ -1,0 +1,2 @@
+# dotConsole
+dotnet template project
